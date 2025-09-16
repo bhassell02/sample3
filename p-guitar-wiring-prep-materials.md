@@ -1,5 +1,11 @@
 # Wiring a Single-Humbucker Setup: Preparing Materials
 
+## Introduction
+
+The purpose of this guide is to provide an overview of materials needed to wire a simple single-humbucker circuit in an electric guitar and how to properly prepare them for easiest application. Intended for budding hobbyists seeking to delve into the world of guitar circuitry. You will be able to translate skills learned in this and the subsequent guides in this repository to more complex circuits.
+
+This guide is intended for Les Paul or Les Paul Junior models.
+
 ## Prerequisites
 
 ### Materials
@@ -63,25 +69,29 @@ Hot wires will be **red**, ground wires will be **black**.
 
 > **Note:** if you have a 4-conductor humbucker, ensure the two wires that are NOT the hot wires are soldered together and taped off with electrical tape. Failure to do so will cause major noise bleed and a weak sound.
 
-### 2. Label Pot Casings
+### 2. Orient the Pots
+
+Flip both pots so the knobs are facing down and the flat metal casing and lugs are pointing up. with **Lug 3** on the left (refer to pot diagram for specific lug placement).
+
+### 3. Label Pot Casings
 
 With a marker, label one pot with **V** for volume and the other with a **T** for tone on the back of the casings (the flat side). Since both are 500k pots, it doesn't matter which is which.
 
-### 3. Prepare Threaded Wires
+### 4. Prepare Threaded Wires
 
 1. Cut four 3.5 inch wires from the threaded spools, two black and two red.
 2. Strip the ends
 
-### 4. Prepare the Solid Wire
+### 5. Prepare the Solid Wire
 
 1. Strip a 1 inch section off the end of the solid core spool.
 2. Cut half of the stripped section off. You should be left with a 0.5 inch fully-stripped wire.
 
-### 5. Tin the Wires
+### 6. Tin the Wires
 
 Apply a small amount of solder to the stripped ends of the five wires you just cut AND the humbucker hot and ground wires, just enough to coat the ends. This will make it easier to solder them to the pots.
 
-### 6. Prepare the Capacitor
+### 7. Prepare the Capacitor
 
 If the capacitor has extra long legs, cut each leg to just under 0.5 inches.
 
