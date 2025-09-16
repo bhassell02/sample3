@@ -143,7 +143,7 @@ With the song still playing against the humbucker, turn the knob of the tone pot
 
 ### Troubleshooting
 
-If the expected outcomes listed in the previous three steps are not met, consult the [Troubleshooting](/p-guitar-wiring-troubleshooting) guide.
+If the expected outcomes listed in the previous three steps are not met, consult the [Troubleshooting](/p-guitar-wiring-troubleshooting.md) guide.
 
 ---
 
