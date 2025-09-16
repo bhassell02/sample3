@@ -99,4 +99,4 @@ If the capacitor has extra long legs, cut each leg to just under 0.5 inches.
 
 ## Next Steps
 
-Once your materials are prepped, you're ready to start putting things together. Move on to the ![next guide](/p-guitar-wiring.md).
+Once your materials are prepped, you're ready to start putting things together. Move on to the [next guide](/p-guitar-wiring.md).
