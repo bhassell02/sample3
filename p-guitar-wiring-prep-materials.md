@@ -71,7 +71,7 @@ Hot wires will be **red**, ground wires will be **black**.
 
 ### 2. Orient the Pots
 
-Flip both pots so the knobs are facing down and the flat metal casing and lugs are pointing up. with **Lug 3** on the left (refer to pot diagram for specific lug placement).
+Flip both pots so the knobs are facing down and the flat metal casing/lugs are pointing up, with **Lug 3** on the left (refer to pot diagram for specific lug placement).
 
 ### 3. Label Pot Casings
 
