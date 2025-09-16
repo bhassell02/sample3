@@ -31,7 +31,7 @@ This guide is intended for Les Paul or Les Paul Junior models.
 
 ### Skills
 
-You should have some prior experience soldering. If you don't, practice for a few hours before continuing with this guide. *(Will insert link to a soldering guide here)*
+You should have some prior experience soldering. If you don't, follow a [tutorial video](https://www.youtube.com/watch?v=rK38rpUy568) and practice for a few hours before continuing with this guide.
 
 ---
 
@@ -58,7 +58,7 @@ Hot wires will be **red**, ground wires will be **black**.
 
 ## Preparing Materials
 
-### 1. Determine the humbucker hot and ground wires.
+### 1. Determine the humbucker hot and ground wires
 
 * If your humbucker has only two wires, you have a **2-conductor humbucker**.
   * The **black** wire is the hot wire
